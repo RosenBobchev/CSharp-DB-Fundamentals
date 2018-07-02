@@ -1,0 +1,18 @@
+C:\Users\User\Desktop\MiniORM1\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\User\Desktop\MiniORM1\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\User\Desktop\MiniORM1\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\User\Desktop\MiniORM1\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\SoftUni\CSharp-DB-Fundamentals\Databases Advanced\ORM Fundamentals - Exercise\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
